@@ -26,3 +26,17 @@ Cuidar el medio ambiente es importante porque de él obtenemos los recursos nece
 Cuando contaminamos el planeta, provocamos problemas como el calentamiento global, la escasez de agua y la destrucción de los ecosistemas. Por eso, es necesario tomar conciencia y realizar acciones que ayuden a conservar la naturaleza.
 
 Al cuidar el medio ambiente también aseguramos un mejor futuro para las próximas generaciones. Acciones como reciclar, ahorrar energía, plantar árboles y evitar tirar basura contribuyen a tener un planeta más saludable y sostenible.
+
+</div><br /><p><br /></p><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjegh6juy_5icIDK5EG-ItRv-t8MSdqyAzBjJ8PYizfMDRnr4oo2UfMV3v6kJyeoAP_XKNa8hlGrqY7EvBuMeIlP-031QU1KyUaFbw-EVnipiQ1CL5qjrg0hhDiIAMWKirYe80K98xrydkVFH34-Uvuo-Rd_Oy4CfyJ4Eqqt6VwKiqspGg1mifoZlDC9xo/s1536/file_00000000c61c71fdac9dbba2fbf60b22.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="1536" height="213" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjegh6juy_5icIDK5EG-ItRv-t8MSdqyAzBjJ8PYizfMDRnr4oo2UfMV3v6kJyeoAP_XKNa8hlGrqY7EvBuMeIlP-031QU1KyUaFbw-EVnipiQ1CL5qjrg0hhDiIAMWKirYe80K98xrydkVFH34-Uvuo-Rd_Oy4CfyJ4Eqqt6VwKiqspGg1mifoZlDC9xo/s320/file_00000000c61c71fdac9dbba2fbf60b22.png" width="320" /></a></div><br />
+¿Cómo podemos reducir la contaminación?
+
+Podemos reducir la contaminación realizando pequeñas acciones todos los días para cuidar el planeta. Algunas formas son:
+Reciclar papel, plástico, vidrio y metal.
+No tirar basura en calles, ríos o parques.
+Usar menos plástico y preferir bolsas reutilizables.
+Ahorrar agua y energía eléctrica.
+Utilizar bicicleta, caminar o usar transporte público para reducir el humo de los vehículos.
+Plantar árboles y cuidar las áreas verdes.
+Evitar quemar basura, ya que contamina el aire.
+Reutilizar materiales y objetos antes de
+ desecharlos.
