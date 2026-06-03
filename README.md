@@ -16,7 +16,7 @@ Para cuidar el medio ambiente se pueden realizar acciones sencillas en la vida d
 .Plantar árboles y cuidar las áreas verdes.
 .Reutilizar materiales para reducir los desechos.
 .Usar menos plástico y preferir productos reutilizables.
-
+</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5T8anJfO8ttAbZXOJdmj_WXdAimjqntuRlRRupbQ01MHrqSEG_pWV6l7fHsR_3c9fWXK0dzbWyW9Rh5EEL8K3B0MKfvXtYxUU6UH1-m6OnzyjZxWRWxgc20tA-Jm-JhnpuJhXghNOvazc9oMeP1SH9KPGhwlCAa8YogAVCIFhdLRneMxyY_AgbRv_YhY/s1536/file_00000000ffe471fdabc81ff572f84969.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5T8anJfO8ttAbZXOJdmj_WXdAimjqntuRlRRupbQ01MHrqSEG_pWV6l7fHsR_3c9fWXK0dzbWyW9Rh5EEL8K3B0MKfvXtYxUU6UH1-m6OnzyjZxWRWxgc20tA-Jm-JhnpuJhXghNOvazc9oMeP1SH9KPGhwlCAa8YogAVCIFhdLRneMxyY_AgbRv_YhY/s320/file_00000000ffe471fdabc81ff572f84969.png" width="213" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;">
 
 ¿Porque es importante cuidar el medio
  ambiente?
