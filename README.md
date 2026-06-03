@@ -40,3 +40,34 @@ Plantar árboles y cuidar las áreas verdes.
 Evitar quemar basura, ya que contamina el aire.
 Reutilizar materiales y objetos antes de
  desecharlos.
+<h2>Formulario sobre el Cuidado del Medio Ambiente</h2>
+
+<form>
+  <label>Nombre completo:</label><br />
+  <input id="nombre" name="nombre" required="" type="text" /><br /><br />
+
+  <label>Edad:</label><br />
+  <input id="edad" name="edad" required="" type="number" /><br /><br />
+
+  <label>Correo electrónico:</label><br />
+  <input id="correo" name="correo" required="" type="email" /><br /><br />
+
+  <label>Teléfono:</label><br />
+  <input id="telefono" name="telefono" type="tel" /><br /><br />
+
+  <label>Género:</label><br />
+  <select id="genero" name="genero">
+    <option>Masculino</option>
+    <option>Femenino</option>
+    <option>Prefiero no decirlo</option>
+  </select><br /><br />
+
+  <label>Municipio:</label><br />
+  <input id="municipio" name="municipio" type="text" /><br /><br />
+
+  <label>¿Reciclas en casa?</label><br />
+  <input name="recicla" type="radio" value="si" /> Sí
+  <input name="recicla" type="radio" value="no" /> No
+  <br /><br />
+
+  <label>Acciones que realizas para cuidar el medio ambiente:</label><br />
