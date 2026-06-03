@@ -40,34 +40,120 @@ Plantar árboles y cuidar las áreas verdes.
 Evitar quemar basura, ya que contamina el aire.
 Reutilizar materiales y objetos antes de
  desecharlos.
-<h2>Formulario sobre el Cuidado del Medio Ambiente</h2>
+<!DOCTYPE html><html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario sobre el Cuidado del Medio Ambiente</title><style>
+    body{
+        font-family: Arial, sans-serif;
+        background-color:#f4f4f4;
+        margin:0;
+        padding:20px;
+    }
 
-<form>
-  <label>Nombre completo:</label><br />
-  <input id="nombre" name="nombre" required="" type="text" /><br /><br />
+    .contenedor{
+        max-width:700px;
+        margin:auto;
+        background:white;
+        padding:25px;
+        border-radius:10px;
+        box-shadow:0 0 10px rgba(0,0,0,0.1);
+    }
 
-  <label>Edad:</label><br />
-  <input id="edad" name="edad" required="" type="number" /><br /><br />
+    h2{
+        text-align:center;
+        color:green;
+    }
 
-  <label>Correo electrónico:</label><br />
-  <input id="correo" name="correo" required="" type="email" /><br /><br />
+    label{
+        font-weight:bold;
+    }
 
-  <label>Teléfono:</label><br />
-  <input id="telefono" name="telefono" type="tel" /><br /><br />
+    input, select, textarea{
+        width:100%;
+        padding:10px;
+        margin-top:5px;
+        margin-bottom:15px;
+        border:1px solid #ccc;
+        border-radius:5px;
+        box-sizing:border-box;
+    }
 
-  <label>Género:</label><br />
-  <select id="genero" name="genero">
-    <option>Masculino</option>
-    <option>Femenino</option>
-    <option>Prefiero no decirlo</option>
-  </select><br /><br />
+    .opciones{
+        width:auto;
+        margin-right:10px;
+    }
 
-  <label>Municipio:</label><br />
-  <input id="municipio" name="municipio" type="text" /><br /><br />
+    .boton{
+        background-color:green;
+        color:white;
+        border:none;
+        padding:10px 20px;
+        cursor:pointer;
+        border-radius:5px;
+    }
 
-  <label>¿Reciclas en casa?</label><br />
-  <input name="recicla" type="radio" value="si" /> Sí
-  <input name="recicla" type="radio" value="no" /> No
-  <br /><br />
+    .boton:hover{
+        background-color:#0b6e0b;
+    }
+</style>
 
-  <label>Acciones que realizas para cuidar el medio ambiente:</label><br />
+</head><body><div class="contenedor"><h2>Formulario sobre el Cuidado del Medio Ambiente</h2><form><label>Nombre completo:</label>
+<input type="text" id="nombre" name="nombre" required>
+
+<label>Edad:</label>
+<input type="number" id="edad" name="edad" required>
+
+<label>Correo electrónico:</label>
+<input type="email" id="correo" name="correo" required>
+
+<label>Teléfono:</label>
+<input type="tel" id="telefono" name="telefono">
+
+<label>Género:</label>
+<select id="genero" name="genero">
+<option>Masculino</option>
+<option>Femenino</option>
+<option>Prefiero no decirlo</option>
+</select>
+
+<label>Municipio:</label>
+<input type="text" id="municipio" name="municipio">
+
+<label>¿Reciclas en casa?</label><br>
+<input class="opciones" type="radio" name="recicla" value="si"> Sí
+<input class="opciones" type="radio" name="recicla" value="no"> No
+<br><br>
+
+<label>Acciones que realizas para cuidar el medio ambiente:</label><br>
+<input class="opciones" type="checkbox" name="accion1"> Reciclar<br>
+<input class="opciones" type="checkbox" name="accion2"> Ahorrar agua<br>
+<input class="opciones" type="checkbox" name="accion3"> Ahorrar energía<br>
+<input class="opciones" type="checkbox" name="accion4"> Plantar árboles<br><br>
+
+<label>¿Con qué frecuencia realizas acciones ecológicas?</label>
+<select id="frecuencia" name="frecuencia">
+<option>Diariamente</option>
+<option>Semanalmente</option>
+<option>Mensualmente</option>
+<option>Rara vez</option>
+</select>
+
+<label>Nivel de conocimiento sobre el cuidado ambiental:</label>
+<select id="conocimiento" name="conocimiento">
+<option>Básico</option>
+<option>Intermedio</option>
+<option>Avanzado</option>
+</select>
+
+<label>¿Participarías en campañas de limpieza comunitaria?</label><br>
+<input class="opciones" type="radio" name="campania" value="si"> Sí
+<input class="opciones" type="radio" name="campania" value="no"> No
+<br><br>
+
+<label>Comentarios o sugerencias:</label>
+
+<textarea id="comentarios" name="comentarios" rows="5"></textarea><input class="boton" type="submit" value="Enviar">
+<input class="boton" type="reset" value="Limpiar"></form></div></body>
+</html>
